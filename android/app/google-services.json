@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253911329076",
+    "project_id": "signroute-ec3f3",
+    "storage_bucket": "signroute-ec3f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253911329076:android:362b56a09b7e6727e85d61",
+        "android_client_info": {
+          "package_name": "com.example.signroute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAQ86BLRHadJTMafvwZqNyDaNxd0pBg7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

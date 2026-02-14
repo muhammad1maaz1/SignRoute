@@ -1,0 +1,50 @@
+name: signroute
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # 🔥 Firebase
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.0
+  cloud_firestore: ^5.4.0
+
+  # 📧 HTTP (Email / OTP ke liye)
+  http: ^1.2.1
+
+  # 📸 Camera
+  camera: ^0.11.0+2
+
+  # 🔐 Permissions
+  permission_handler: ^11.3.1
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/bee.png
+    - assets/images/bee_login.png
+    - assets/images/splash_bee.png
+    - assets/images/splash_cloud.png
+    - assets/images/user_screen_avatar.png
+    - assets/images/user_screen_hand.png
+    - assets/images/user_screen_handwave.png
+    - assets/images/user_screen_mic.png
+    - assets/images/forgot_bee.png
+    - assets/images/chat_avatar.png
